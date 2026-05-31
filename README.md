@@ -32,7 +32,7 @@ A responsive agency portfolio platform built with React. Showcase creative proje
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/react-portfolio-platform.git
+git clone https://github.com/m-mukundi/react-portfolio-platform.git
 cd react-portfolio-platform
 npm install
 ```
