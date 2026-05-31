@@ -1,0 +1,14 @@
+.main {
+	max-width: var(--container-max);
+	margin: 0 auto;
+}
+
+.heroWrapper {
+	padding: var(--space-xl) var(--px-mobile) 0;
+}
+
+@media (min-width: 768px) {
+	.heroWrapper {
+		padding: var(--space-xl) var(--px-desktop) 0;
+	}
+}

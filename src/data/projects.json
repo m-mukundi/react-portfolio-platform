@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"name": "Lumina HQ Design",
+		"description": "A masterclass in modern commercial space design, focusing on natural light and flow.",
+		"imageSource": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwNSFIEJeL5HXSv17Gn341Xmh5CAceyhI-WUP9NxfYuSi7Gk1FBJuK7VNK1w1mIydgdg7J4B5V_U3iT2dH5W-bnMFL3vz1S2W-Ymgg1oYBAsySa74IkRPwq3ydioEiUE9e-oNquCsKM1Llxz5JuuB5xeTc4r36F6GXQK0cG4xvg8UtDrUJfy2Y8LSZJ5ZbSSuUTP5My8GR66ytUNDzDyVmmlraN7sa3oRJlFqKS23IkWQqL-lVW6TilY248Jviw0Mjo3ozmHOUbfKZ",
+		"imageAltText": "Interior Design Project",
+		"imageDataAltText": "A clean and modern high-end architectural interior with minimal furniture and vast open spaces.",
+		"category": "Architecture"
+	},
+	{
+		"id": 2,
+		"name": "Vertex Identity",
+		"description": "Reimagining the visual language for a sustainable technology startup.",
+		"imageSource": "https://lh3.googleusercontent.com/aida-public/AB6AXuBloPHQpSLV8_N-paKUCqVayUY0S3c4zveDv4fgVdDSnOPvyleIzrtFaZ10ErlAr9zV_3FUXewQtvOuDVIOL_QmOMK9CK4i6csafCaGmO4LpuMOJNWFGVz13Sjpofvq6q4JdieNz7QEkUZEUzVvjq_wUn00KnMxDoClJwADZU_GmHJRuop9ekHs2iquTiZz9Gw9J47YmfuAT4WKqvysBOt_4ImRR6EbuBVaBD7HgPJhFb0Z4-Q10hfNtJKr2ZsmsR-sBN9kbRA4o1eS",
+		"imageAltText": "Brand Identity Project",
+		"imageDataAltText": "A macro shot of premium stationery and branding materials laid out on a dark, textured surface.",
+		"category": "Branding"
+	},
+	{
+		"id": 3,
+		"name": "Nexus App UI",
+		"description": "User-centric mobile experience designed for high-end real estate navigation.",
+		"imageSource": "https://lh3.googleusercontent.com/aida-public/AB6AXuCUFaA0HqmNaGwjpJTwtMutDj-a2An8CPA_YGrYAkiXyrVA7LQEhdFBz9Pf-oUDh8q0EVL1NyUgIoWHt3HBMKmmFt2vR_wYJfTkQiYTUj4kmlKEl29S0CKcslL_fmHHe7H6k5Vzsb_oONl9UZuEzh0QxTbte604P337_RFq0VdEc3wErIumAPeRkFfJL_me_UqA5mHTf7H4r7kn2sRe164tXI0eIgJAwVye3gfCv1J4l1PEuIQBAlxkQceuYCwtIv-yreaD452osQLU",
+		"imageAltText": "UI Design Project",
+		"imageDataAltText": "A top-down view of multiple mobile device mockups showcasing a sleek, minimalist user interface.",
+		"category": "Digital"
+	}
+]

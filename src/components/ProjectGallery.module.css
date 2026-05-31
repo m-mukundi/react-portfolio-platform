@@ -1,0 +1,19 @@
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-lg);
+}
+
+@media (min-width: 640px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.emptyState {
+  font-size: var(--fs-body-md);
+  color: var(--color-on-surface-variant);
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: var(--space-xl) 0;
+}

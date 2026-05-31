@@ -1,0 +1,28 @@
+.heroSection {
+  margin-bottom: var(--space-xl);
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .heroSection {
+    text-align: left;
+  }
+}
+
+.title {
+  font-size: var(--fs-display);
+  line-height: var(--lh-display);
+  font-weight: var(--fw-display);
+  letter-spacing: var(--ls-display);
+  color: var(--color-on-surface);
+  margin-bottom: var(--space-sm);
+}
+
+.tagline {
+  font-size: var(--fs-headline-lg);
+  line-height: var(--lh-headline-lg);
+  font-weight: var(--fw-headline-lg);
+  letter-spacing: var(--ls-headline-lg);
+  color: var(--color-primary);
+  max-width: 672px;
+}
