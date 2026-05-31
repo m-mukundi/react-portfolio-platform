@@ -2,7 +2,7 @@
 
 A responsive agency portfolio platform built with React. Showcase creative projects in a clean gallery, publish new ones through a built-in form, and search across all entries in real time.
 
-**Live demo:** `https://your-deployment-url-here.com`
+**Live demo:** `https://react-portfolio-platform-jade.vercel.app/`
 
 ---
 
