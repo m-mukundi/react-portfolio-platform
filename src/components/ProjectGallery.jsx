@@ -1,5 +1,5 @@
 import ProjectCard from "./ProjectCard";
-import styles from "./ProjectGallery.module.css";
+import styles from "../styles/ProjectGallery.module.css";
 
 function ProjectGallery({ projects }) {
 	return (
