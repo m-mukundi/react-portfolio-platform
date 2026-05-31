@@ -3,7 +3,7 @@ import SearchBar from "./SearchBar";
 import ProjectFormContainer from "./ProjectFormContainer";
 import ProjectGallery from "./ProjectGallery";
 import initialProjects from "../data/projects.json";
-import styles from "./ProjectManagementAndSearch.module.css";
+import styles from "../styles/ProjectManagementAndSearch.module.css";
 
 function ProjectManagementAndSearch() {
 	const [projects, setProjects] = useState(initialProjects);
