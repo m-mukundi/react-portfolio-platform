@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "./ProjectFormContainer.module.css";
+import styles from "../styles/ProjectFormContainer.module.css";
 
 function ProjectFormContainer({ onAddProject }) {
 	const [title, setTitle] = useState("");
